@@ -15,6 +15,7 @@
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
 - [Spencer Robinson] (https://github.com/spenmaster)
+- [Dhiraj Chhawchharia] (https://github.com/chhawchharia27)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
 - [Lashan Chamodya] (https://github.com/Lashan7)
